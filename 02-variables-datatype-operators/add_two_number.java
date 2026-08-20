@@ -4,11 +4,12 @@ public class add_two_number {
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
          System.out.println("enter a:");
-        int a= sc nextLine();
+        int a= sc.nextInt();
         
         System.out.println("enter b:");
-        int b=2;
+        int b= sc.nextInt();
         int sum=a+b;
-        System.out.println(sum);
+        System.out.println("sum= "+sum);
+        sc.close();
     }
 }
