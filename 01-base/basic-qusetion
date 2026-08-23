@@ -1,0 +1,48 @@
+1. can we run .java file using only JRE?
+ans=> No
+
+2.Which of the following contains java compiler.
+
+ 1.JRE
+ 2.JDK
+ 3.JVM
+ans=>  JDK
+
+3. Which is the output of javac
+ 1.Machine code 
+ 2.Bytecode 
+ 3. Native code 
+ans=> Byte code
+
+
+4.What is the default value of boolean ?
+ 1. True
+ 2. False
+ans=> False
+
+5. Identify the valid java variable name.
+ 1. 1age
+ 2. total_marks
+ 3. @total
+ 4. string
+  ans=> 2 and  4 correct.
+
+6. What will be the output ?.
+Double d=9.5;
+int i =(int)d;
+SOP(i);
+ans=> 9  .
+
+7. Which type of casting it is ?.
+long i=130;
+int x=(int)i;
+ans=> explicit.
+
+8. Which one of the following give compile time error.
+ 1. int x= 12.2;
+ 2. int i= (int)12.2;
+ 3. double j=11;
+ 4.float f=17.12f;
+ ans=> 1. int x=12=2;
+
+ 
