@@ -1,0 +1,20 @@
+
+
+1.types of variable
+  1.instance
+  2.Local
+  3.static
+
+1.instance
+  instance variable difine the inside of the class and outside of the methods.  
+
+2.Local
+  Local variable difine the inside of the methods.
+
+3. static
+   in static areas only  static variables will be use , static variable can be used in local and instance areas.
+
+
+Note: if we want use instance variables inside static block/areas we have to use objects.
+
+Note: if we want access static instance variable inside static block without useing object also we have call useing classname.ex-(Student.course)
