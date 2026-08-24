@@ -1,0 +1,35 @@
+1. if Statements
+
+    if(condition){
+       operations 
+    }
+
+
+2. if and else Statements
+  
+     if(condition){
+       operations 
+    }else{
+        other operations 
+    }
+
+3. else-if Statements
+        if(condition){
+       operations 
+    }else if(condition){
+        other operations 
+    }else{
+
+    }
+    
+
+4. switch case  Statements
+   
+   switch(condition){
+    case 1:
+        operations
+        break ; 
+   
+   default :
+    operations
+}

@@ -1,0 +1,27 @@
+1. What is loop?.
+  the loop use to itretion of the code 
+
+  types...
+   1.for-loop
+   2.while-loop
+   3.do while-loop
+
+1. for(inslizetion;condition; inciment)   
+    for(int a=1; a<4; a++){
+       operations
+    }
+
+
+2. while loop
+      while(condition){
+
+      }
+
+3. do-while loop
+
+     do{
+
+    }while(condition)
+
+
+        

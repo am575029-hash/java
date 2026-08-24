@@ -1,0 +1,10 @@
+1. What is Operators.
+ans=> Operators is a symbol which tells compiler to perform some operation ans tasks.
+
+Types....
+ 1. Arithmetic Operators = (+,-,*,/,%,++,--)
+ 2. Relational Operators = (==,<=,>=,<,>)
+ 3. Logical Operators  = (&&,||,!)
+ 4. Assignment Operators =(=,-=,+=,*=,/=)
+ 5. Unary Operators      =(++,--,+a,-a,!,~)
+ 6. Ternary Operators =(condition ? value1 : value2;)
