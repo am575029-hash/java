@@ -1,0 +1,8 @@
+1. Array 
+   Array ek aisa data structure hai jisme same data type ki multiple values ek hi variable mein store kar sakte hain
+
+   int[] numbers = {10, 20, 30, 40, 50};
+
+Array create karna   
+
+  int[] numbers = new int[5];
