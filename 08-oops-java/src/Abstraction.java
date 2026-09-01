@@ -17,12 +17,12 @@ class SBIATM extends ATM {
     }
 }
 
-public class Main {
+public class Abstraction {
     public static void main(String[] args) {
 
         ATM atm = new SBIATM();
 
-        atm.withdraw(500);
+        atm.withdraw(50);
         atm.checkBalance();
     }
 }
