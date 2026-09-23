@@ -7,7 +7,6 @@ class EvenThread extends Thread{
         }
     }
 }
-
 class OddThread extends Thread{
     @Override
     public void run() {
@@ -23,5 +22,4 @@ public class PrintEvenOdd {
         new OddThread().start();
 
     }
-
 }
